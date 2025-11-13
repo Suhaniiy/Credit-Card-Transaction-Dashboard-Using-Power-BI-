@@ -1,0 +1,1 @@
+This project focuses on developing a Power BI dashboard that provides a comprehensive analysis of credit card transactions and customer spending behavior. The goal is to transform raw financial data into meaningful business insights using SQL for data preprocessing and DAX (Data Analysis Expressions) for analytical calculations.
